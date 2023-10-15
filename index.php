@@ -6,8 +6,7 @@ include_once("constant.php");
 //  echo HELLO_WORLD;
 echo "<h1> Now we testing </h1> ";
 
-// error_reporting(0);
- 
+// error_reporting(0); 
 include_once('layout/header.php');
 // echo $action;
 switch ($action){
